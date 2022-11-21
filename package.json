@@ -1,0 +1,24 @@
+{
+  "name": "ob_m3_t2_e1",
+  "version": "1.0.0",
+  "description": "Open Bootcam, modulo 3, tema 2, ejercicio 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/js/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAbadNoriega/OB_M3_T2_E1.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Daniel Abad Noriega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielAbadNoriega/OB_M3_T2_E1/issues"
+  },
+  "homepage": "https://github.com/DanielAbadNoriega/OB_M3_T2_E1#readme"
+}
